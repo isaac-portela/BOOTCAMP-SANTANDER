@@ -1,4 +1,6 @@
-# DesafioAngular
+# DesafioAngular API RICK AND MORTY
+![image](https://user-images.githubusercontent.com/54759116/183322860-72e24b21-74d7-4ab5-9848-34fa3c8fcd21.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
 
